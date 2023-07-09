@@ -1350,7 +1350,7 @@ In this phase, we will apply our insights to solve the problem by sharing our re
 ### Recommendations
 1) Target casual users that use the service frequently; they would get the most value from the membership plan and have a higher chance of conversion.
 2) Devise a customized annual membership with a lower rate for casual users that use the service infrequently to justify the value they would get from the membership plan. If possible, modify or make a membership plan with an initial free period for electric bikes to entice casual users to sign up for membership.
-3) Since casual users use all types of bikes but have a high preference for electric bikes, make sure that there is availability of all bike types in the top stations identified and in stations that are near parks and cities' famous attractions but give higher priority to electric bike.
+3) Since casual users use all types of bikes but have a high preference for electric bikes, make sure that there is availability of all bike types in the top stations identified and in stations that are near parks and City's famous attractions but give higher priority to electric bike.
 4) Offer a membership discount during the summer (especially in July) and on weekends. If possible, implement a surge price during peak periods to encourage casual users to sign up for membership.
 5) Run promotions on top stations identified most specifically on Streeter Dr. and Grand Ave. and along Lakeshore Drive to target casual users.
 6) Develop a referral system to gain assistance from existing members in converting casual users and acquiring new members.
