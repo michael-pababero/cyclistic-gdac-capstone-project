@@ -1327,7 +1327,7 @@ ORDER BY total_no_rides DESC;
 ## :chart_with_upwards_trend: SHARE
 In this phase, we will create visualizations and share our key findings.
 
-For Cyclistic dashboard go to: <a href="https://public.tableau.com/views/CyclisticDashboard_16839758919160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"></a>
+For Cyclistic dashboard, go to <a href="https://public.tableau.com/views/CyclisticDashboard_16839758919160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"></a>
 
 ### Key Insights
 
